@@ -1,0 +1,10 @@
+.welcome {
+  color: red;
+}
+.btn {
+  color: white;
+  background-color: green;
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+}
